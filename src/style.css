@@ -1,0 +1,16 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+.container {
+  width: min(70rem, 90vw);
+  max-width: calc(100% - 2rem);
+  margin-inline: auto;
+  margin-block: 3rem;
+}
