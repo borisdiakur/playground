@@ -15,7 +15,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "^5.49.0",
-    "cssnano": "^5.1.14",
+    "cssnano": "^6.0.0",
     "eslint": "^8.32.0",
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
