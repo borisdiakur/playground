@@ -22,7 +22,7 @@
     "postcss-nested": "^6.0.1",
     "postcss-preset-env": "^9.5.3",
     "prettier": "^3.2.5",
-    "typescript": "^5.4.3",
+    "typescript": "^5.4.5",
     "vite": "^5.2.8"
   }
 }
