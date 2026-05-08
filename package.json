@@ -20,7 +20,7 @@
     "postcss": "^8.5.14",
     "postcss-import": "^16.1.1",
     "postcss-nested": "^7.0.2",
-    "postcss-preset-env": "^10.6.0",
+    "postcss-preset-env": "^11.2.1",
     "prettier": "^3.8.3",
     "typescript": "^6.0.3",
     "vite": "^7.3.1"
